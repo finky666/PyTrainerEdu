@@ -177,20 +177,16 @@ PyTrainerEdu/
 
 ## Development data
 
-The public package contains only packed `.pte` files.
+The public repository contains only packed `.pte` data files.
 
-The development package may contain editable JSON files and packing tools. Do not distribute the development package to students if you want to hide correct answers.
+Editable JSON question files and packing tools are not included in the public release, because plain JSON files would expose correct answers.
+
+To modify or extend the question database, create a separate development copy, edit the JSON files there, and regenerate packed `.pte` files before publishing.
 
 Recommended release package:
 
 ```text
 PyTrainerEdu_v1.1.0.zip
-```
-
-Development package:
-
-```text
-PyTrainerEdu_v1.1.0_dev_data_tools.zip
 ```
 
 ---
