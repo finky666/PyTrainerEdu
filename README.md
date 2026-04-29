@@ -208,7 +208,7 @@ LICENSE.txt
 
 Developed and maintained by **Tibor Cefan**.
 
-Assisted by **ChatGPT (Majka / SuPyWomen)**.
+Assisted by **ChatGPT**.
 
 ---
 
