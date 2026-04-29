@@ -167,6 +167,7 @@ PyTrainerEdu/
 ├── reports/                # generated reports
 ├── sessions/               # saved session state
 ├── python_logo_small.png
+├── python_test.png        # GUI screenshot
 ├── start_gui.bat
 ├── start_console.bat
 ├── LICENSE.txt
