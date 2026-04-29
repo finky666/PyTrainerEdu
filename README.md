@@ -184,7 +184,7 @@ The development package may contain editable JSON files and packing tools. Do no
 Recommended release package:
 
 ```text
-PyTrainerEdu_v1.1.0_public_packed.zip
+PyTrainerEdu_v1.1.0.zip
 ```
 
 Development package:
